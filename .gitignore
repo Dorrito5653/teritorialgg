@@ -1,0 +1,9 @@
+#Just use npm commands
+node_modules/
+logs/
+
+#Secrets
+*.env
+
+#Unneeded
+*.bat
